@@ -1,6 +1,6 @@
 # clojureshtein
 
-Clojureshtein is a small library that calculates similarity between two
+Clojureshtein will be a small library that calculates similarity between two
 strings calculating their Levenshtein distance.
 
 Really? It's just a way to learn Clojure by implementing a simple algorithm I
@@ -9,7 +9,7 @@ class :)
 
 ## Usage
 
-...
+Work in progress.
 
 ## License
 
